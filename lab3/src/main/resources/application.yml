@@ -1,0 +1,9 @@
+server:
+    port: 9090
+    
+spring:
+    datasource:
+        driverClassName: com.mysql.cj.jdbc.Driver
+        url: jdbc:mysql://34.66.158.89:3306/proys
+        username: root
+        password: hola1234
